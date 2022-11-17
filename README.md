@@ -324,6 +324,6 @@ $
 
 - GitHub: [@copanicus] (https://github.com/copanicus)
 
-👤 **MOSURO KANYINSOLA OLUBUNMI**
+👤 **Udi Harrison Igho Igho**
 
 - GitHub: [@harryudi](https://github.com/harryudi)
