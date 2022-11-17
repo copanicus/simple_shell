@@ -320,10 +320,10 @@ $
 
 ## Authors ##
 
-👤 **BESTHOR IGBE**
+👤 **Udeme Iniobong Nicholas**
 
-- GitHub: [@besthor] (https://github.com/besthor)
+- GitHub: [@copanicus] (https://github.com/copanicus)
 
 👤 **MOSURO KANYINSOLA OLUBUNMI**
 
-- GitHub: [@](https://github.com)
+- GitHub: [@harryudi](https://github.com/harryudi)
